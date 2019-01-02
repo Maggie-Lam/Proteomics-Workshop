@@ -1,4 +1,3 @@
-<font size="-1">
 ### Proteomics in Cancer Research - Concepts and Practicums (Spring 2019) 
 Director: Maggie Lam, PhD, Department of Medicine, CFReT
 
