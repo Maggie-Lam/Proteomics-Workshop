@@ -1,5 +1,5 @@
 ### Proteomics in Cancer Research - Concepts and Practicums (Spring 2019) 
-Director: Maggie Lam, PhD, Department of Medicine, CFReT
+Director: Maggie Lam, PhD, Department of Medicine, CFReT <br>
 [Updates and News](https://maggie-lam.github.io/Proteomics-Workshop/updates.md)
 
 #### Workshop Summary
@@ -20,7 +20,7 @@ Two sessions per week and two hours per session.
 
 ####  Workshop 1
 Date: 4/2/2019 (Tue) <br>
-Time: 3:00 pm to 5:00 pm <br><
+Time: 3:00 pm to 5:00 pm <br>
 Room: L18-5105 <br></br>
 Introduction to Proteomics Concepts.<br>
 Big idea: Proteins reveal information not possible to attain from nucleic acids / From Genomics to Proteomics. <br>
@@ -54,7 +54,7 @@ Big idea: Using proteomics to find biomarkers.<br>
 ####  Workshop 4
 Date:4/11/2019 (Thu)<br>
 Time:3:00 pm to 5:00 pm<br>
-Room: L18-5105<br></br>
+Room: L18-5105<br><br>
 Complex analysis - Discovery Proteomics for Novel Molecular Phenotypes<br>
 Big idea: Linking data output to interpretable biological model is the critical step in data analysis. <br>
 - Proteomics using mass spectrometry: a deeper look into quantitative strategies. 
