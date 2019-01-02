@@ -60,6 +60,7 @@ Big idea: Linking data output to interpretable biological model is the critical 
 -Proteomics using mass spectrometry: a deeper look into quantitative strategies. 
 -Concluding remarks.
 **Practicum:** Introduction to R, RStudio, and Bioconductor.
+```
 
 For questions and comments, please email maggie.lam[at]ucdenver.edu
 
