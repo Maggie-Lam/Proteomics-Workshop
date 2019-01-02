@@ -1,3 +1,4 @@
+<font size="-1">
 ### Proteomics in Cancer Research - Concepts and Practicums (Spring 2019) 
 Director: Maggie Lam, PhD, Department of Medicine, CFReT
 
@@ -14,56 +15,55 @@ Upon completing the workshop, students should be able to:
 -	Design a hypothetical proteomics experiment working with campus resources to compare protein expression in an animal disease model.
 -	Possess basic understanding of scientific programming in R.
 
-```markdown
 ###  Syllabus (tentative) 
 Two sessions per week and two hours per session.
 
 ####  Workshop 1
-Date:4/2/2019 (Tue)
-Time:3:00 pm to 5:00 pm
-Room: L18-5105
-Introduction to Proteomics Concepts.
-Big idea: Proteins reveal information not possible to attain from nucleic acids / From Genomics to Proteomics. 
--Introduction: history of proteomics, basic protein biochemistry, current view on proteome complexity. 
--Comparison of protein detection technologies (Mass Spec, RPPA, SomaLogics). 
--Common workflow in mass spectrometry-based proteomics. 
--Guest lecture 1 (tentative).
-**Practicum:** Common proteomics database, database search, where to look up information.
+Date: 4/2/2019 (Tue) <br>
+Time: 3:00 pm to 5:00 pm <br>
+Room: L18-5105 <br>
+Introduction to Proteomics Concepts.<br>
+Big idea: Proteins reveal information not possible to attain from nucleic acids / From Genomics to Proteomics. <br>
+- Introduction: history of proteomics, basic protein biochemistry, current view on proteome complexity. 
+- Comparison of protein detection technologies (Mass Spec, RPPA, SomaLogics). 
+- Common workflow in mass spectrometry-based proteomics. 
+- Guest lecture 1 (tentative).<br>
+**Practicum:** Common proteomics database, database search, where to look up information. 
 
 ####  Workshop 2
-Date:4/4/2019 (Thu)
-Time:3:00 pm to 5:00 pm
-Room: L18-5105
-Introduction to Analytical and Computational Approaches.
-Big idea: Multiple methods exist to quantify proteins on large-scale, mass spectrometry is the universal proteome analyzer to-date. 
--Principles for protein identification in mass spectrometry. 
--Introduction to common experimental strategies for protein isolation and detection (Co-IP/BioID/APEX, PCP/LOPIT).
+Date: 4/4/2019 (Thu)<br>
+Time: 3:00 pm to 5:00 pm<br>
+Room: L18-5105<br>
+Introduction to Analytical and Computational Approaches.<br>
+Big idea: Multiple methods exist to quantify proteins on large-scale, mass spectrometry is the universal proteome analyzer to-date. <br>
+- Principles for protein identification in mass spectrometry. 
+- Introduction to common experimental strategies for protein isolation and detection (Co-IP/BioID/APEX, PCP/LOPIT).<br>
 **Practicum:** Introduction to pathway analysis of identified proteins using DAVID, Reactome.
 
 ####  Workshop 3
-Date:4/9/2019 (Tue)
-Time:3:00 pm to 5:00 pm
-Room: L18-5105
-Biomarker Discovery. 
-Big idea: Using proteomics to find biomarkers.
--Biomarker discovery; real-life examples in cancer biology and other fields from biofluids. 
--Proteogenomics analysis in CPTAC and other studies.
--Guest lecture 2 (tentative)
+Date:4/9/2019 (Tue)<br>
+Time:3:00 pm to 5:00 pm<br>
+Room: L18-5105<br>
+Biomarker Discovery. <br>
+Big idea: Using proteomics to find biomarkers.<br>
+- Biomarker discovery; real-life examples in cancer biology and other fields from biofluids. 
+- Proteogenomics analysis in CPTAC and other studies.
+- Guest lecture 2 (tentative)<br>
 **Practicum:** Designing your biomarker discovery experiments, proteomics statistics.
 
 ####  Workshop 4
-Date:4/11/2019 (Thu)
-Time:3:00 pm to 5:00 pm
-Room: L18-5105
-Complex analysis - Discovery Proteomics for Novel Molecular Phenotypes
-Big idea: Linking data output to interpretable biological model is the critical step in data analysis. 
--Proteomics using mass spectrometry: a deeper look into quantitative strategies. 
--Concluding remarks.
+Date:4/11/2019 (Thu)<br>
+Time:3:00 pm to 5:00 pm<br>
+Room: L18-5105<br>
+Complex analysis - Discovery Proteomics for Novel Molecular Phenotypes<br>
+Big idea: Linking data output to interpretable biological model is the critical step in data analysis. <br>
+- Proteomics using mass spectrometry: a deeper look into quantitative strategies. 
+- Concluding remarks.<br>
 **Practicum:** Introduction to R, RStudio, and Bioconductor.
-```
+
 
 For questions and comments, please email maggie.lam[at]ucdenver.edu
 
 
-
+</font>
 
