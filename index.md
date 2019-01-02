@@ -1,5 +1,6 @@
 ### Proteomics in Cancer Research - Concepts and Practicums (Spring 2019) 
 Director: Maggie Lam, PhD, Department of Medicine, CFReT
+[Updates and News](https://maggie-lam.github.io/Proteomics-Workshop/updates.md)
 
 #### Workshop Summary
 Proteomics is a large-scale analytical approach to examine the functional output of the genome. Many cellular and molecular phenotypes can only be feasibly discerned at the proteomics level, including protein post-translational modifications, protein-protein interactions, protein localization, and more. With maturing technologies, proteomics analysis is now increasingly accessible to biomedical investigators, but sample preparation and data analysis concerns can remain daunting to many potential users. This workshop aims to provide introductory information for researchers interested in performing proteomics experiments as part of their research projects.
