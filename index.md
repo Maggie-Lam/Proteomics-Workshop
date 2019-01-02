@@ -14,7 +14,7 @@ Upon completing the workshop, students should be able to:
 -	Design a hypothetical proteomics experiment working with campus resources to compare protein expression in an animal disease model.
 -	Possess basic understanding of scientific programming in R.
 
-
+```markdown
 ###  Syllabus (tentative) 
 Two sessions per week and two hours per session.
 
@@ -60,7 +60,7 @@ Big idea: Linking data output to interpretable biological model is the critical 
 -Proteomics using mass spectrometry: a deeper look into quantitative strategies. 
 -Concluding remarks.
 **Practicum:** Introduction to R, RStudio, and Bioconductor.
-
+```
 
 For questions and comments, please email maggie.lam[at]ucdenver.edu
 
