@@ -62,7 +62,7 @@ Big idea: Linking data output to interpretable biological model is the critical 
 **Practicum:** Introduction to R, RStudio, and Bioconductor.
 
 
-For questions and comments, please email maggie.lam[at]ucdenver.edu . 
+For questions and comments, please email maggie.lam[at]ucdenver.edu 
 
 
 
