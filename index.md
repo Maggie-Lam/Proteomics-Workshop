@@ -19,7 +19,6 @@ Upon completing the workshop, students should be able to:
 -	Design a hypothetical proteomics experiment working with campus resources to compare protein expression in an animal disease model.
 -	Possess basic understanding of scientific programming in R.
 
-
 ###  Syllabus (tentative) 
 Two sessions per week and two hours per session.
 
