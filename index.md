@@ -17,7 +17,7 @@ Upon completing the workshop, students should be able to:
 -	Utilize common web-based data analysis resources to transform quantitative protein list data to biological hypothesis.
 -	Design a hypothetical proteomics experiment working with campus resources to compare protein expression in an animal disease model.
 -	Possess basic understanding of scientific programming in R.
-\
+
 
 ###  Syllabus (tentative) 
 Two sessions per week and two hours per session.
