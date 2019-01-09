@@ -67,12 +67,12 @@ Big idea: Linking data output to interpretable biological model is the critical 
 **Practicum:** Introduction to R, RStudio, and Bioconductor.
 
 ### Other important information
-Website information
+Website information <br>
 Workshop website: https://maggie-lam.github.io/Proteomics-Workshop/ (please check for updates and news on the website prior to attending the workshop).
 
 #### Registration
-There is no charge for the workshop but registration is required.
-Please contact Sabrena Heilman (sabrena.heilman@ucdenver.edu) or Caitlin Moloney (caitlin.moloney@ucdenver.edu) to register.
+There is no charge for the workshop but registration is required.<br>
+Please contact Sabrena Heilman (sabrena.heilman@ucdenver.edu) or Caitlin Moloney (caitlin.moloney@ucdenver.edu) to register.<br>
 Registration can also be completed via this link: [Registration](https://goo.gl/forms/0Js0GpKV5XmqBFQe2)
 
 #### Pre-requisite
