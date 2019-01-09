@@ -66,8 +66,21 @@ Big idea: Linking data output to interpretable biological model is the critical 
 - Concluding remarks.<br>
 **Practicum:** Introduction to R, RStudio, and Bioconductor.
 
+### Other important information
+Website information
+Workshop website: https://maggie-lam.github.io/Proteomics-Workshop/ (please check for updates and news on the website prior to attending the workshop).
 
-For questions and comments, please email maggie.lam[at]ucdenver.edu 
+#### Registration
+There is no charge for the workshop but registration is required.
+Please contact Sabrena Heilman (sabrena.heilman@ucdenver.edu) or Caitlin Moloney (caitlin.moloney@ucdenver.edu) to register.
+Registration can also be completed via this link: [Registration](https://goo.gl/forms/0Js0GpKV5XmqBFQe2)
+
+#### Pre-requisite
+No prior experience in proteoimcs is required. Please bring your own labtop computer to the workshop.
+
+#### Questions and Comments
+Please contact Maggie Lam (maggie.lam@udenver.edu) for questions and comments.
+
 
 
 
