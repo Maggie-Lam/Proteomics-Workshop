@@ -31,7 +31,7 @@ Room: RC1-South 5105 <br>
 Introduction to Proteomics Concepts.<br>
 Big idea: Multiple methods exist to quantify proteins on large-scale and reveal information not attainable from DNA/RNA alone <br>
 - Introduction to different proteome parameters and proteome complexity
-- Comparison of affinity-based (RPPA, Olink, SomaLogics) and Mass spectrometry-based proteomics
+- Comparison of affinity-based (RPPA, Olink, SomaLogics, etc.) and Mass spectrometry-based proteomics
 - Overview or proteomics sample preparation. <br>
 **Practicum:** Performing a proteomics database search to identify proteins, fetching database sequence, where to look up information. 
 
