@@ -2,7 +2,7 @@
 Director: Maggie Lam, PhD, Department of Medicine, CFReT <br>
 Sponsored by the Cancer Biology Training Program <br>
 
-###  Please bring your own labtop computer to the practicum. Thank you!
+## Please bring your own labtop computer to the practicum. Thank you!
 
 Registration is currently unavailable.
 [Registration](https://goo.gl/forms/0Js0GpKV5XmqBFQe2)<br>
@@ -17,10 +17,11 @@ Room: RC1-South 5105 <br>
 Introduction to Proteomics Concepts.<br>
 Big idea: Multiple methods exist to quantify proteins on large-scale and reveal information not attainable from DNA/RNA alone.<br>
 - Introduction to different proteome parameters and proteome complexity.
-- Comparison of affinity-based (RPPA, Olink, SomaLogics, etc.) and Mass spectrometry-based proteomics.
-- Overview or proteomics sample preparation.<br>
+- Comparison of affinity-based (RPPA, Olink, SomaLogics, etc.) and mass spectrometry-based proteomics.
+- Overview on proteomics sample preparation.<br>
 **Practicum:** Performing a proteomics database search to identify proteins, fetching database sequence, where to look up information. 
 
+<br>
 ####  Workshop 2
 Date: 4/4/2019 (Thu)<br>
 Time: 3:00 pm to 5:00 pm<br>
@@ -31,9 +32,10 @@ Big idea: Mass spectrometry is a universal analyzer of protein identity, quantit
 - Introduction to common experimental strategies for protein isolation and detection (Co-IP/BioID/APEX, PCP/LOPIT).<br>
 **Practicum:** Introduction to pathway analysis of identified proteins using DAVID, Reactome.
 
+<br>
 ####  Workshop 3
-Date:4/11/2019 (Thu)<br>
-Time:3:00 pm to 5:00 pm<br>
+Date: 4/11/2019 (Thu)<br>
+Time: 3:00 pm to 5:00 pm<br>
 Room: RC1-South 5105 <br>
 Quantitative Strategies <br>
 Big idea: Linking data output to interpretable biological model is the critical step in data analysis. <br>
@@ -41,9 +43,10 @@ Big idea: Linking data output to interpretable biological model is the critical 
 - Proteogenomics analysis in CPTAC and other studies.<br>
 **Practicum:** Analysis of quantitative proteomics experiments (Part 1)
 
+<br>
 ####  Workshop 4
-Date:4/16/2019 (Tue)<br>
-Time:3:00 pm to 5:00 pm<br>
+Date: 4/16/2019 (Tue)<br>
+Time: 3:00 pm to 5:00 pm<br>
 Room: RC-1-South 12107 <br>
 **Guest Lecture:** Kirk Hansen, PhD, Associate Professor, Director of the Mass Spectrometry Shared Resource.<br>
 Biomarker Discovery.<br>
@@ -52,6 +55,7 @@ Big idea: Using proteomics to find biomarkers.<br>
 - Concluding remarks.<br>
 **Practicum:** Analysis of quantitative proteomics experiments (Part 2)
 
+<br>
 #### Workshop Summary
 <p align="justify">
 Proteomics is a large-scale analytical approach to examine the functional output of the genome. Many cellular and molecular phenotypes can only be feasibly discerned at the proteomics level, including protein post-translational modifications, protein-protein interactions, protein localization, and more. With maturing technologies, proteomics analysis is now increasingly accessible to biomedical investigators, but sample preparation and data analysis concerns can remain daunting to many potential users. This workshop aims to provide introductory information for researchers interested in performing proteomics experiments as part of their research projects.
@@ -74,7 +78,6 @@ Workshop website: https://maggie-lam.github.io/Proteomics-Workshop/ (please chec
 
 #### Registration
 There is no charge for the workshop but registration is required.<br>
-Registration can also be completed via this link: [Registration](https://goo.gl/forms/0Js0GpKV5XmqBFQe2)
 
 #### Pre-requisite
 No prior experience in proteoimcs is required. Please bring your own labtop computer to the workshop.
