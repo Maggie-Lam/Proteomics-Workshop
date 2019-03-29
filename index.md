@@ -52,7 +52,7 @@ Room: RC1-South 5105 <br>
 Biomarker Discovery. <br>
 Big idea: Using proteomics to find biomarkers.<br>
 - Biomarker discovery; real-life examples in cancer biology and other fields from biofluids. 
-- Proteogenomics analysis in CPTAC and other studies.
+- Proteogenomics analysis in CPTAC and other studies.<br>
 **Practicum:** Designing your biomarker discovery experiments, proteomics statistics.
 
 ####  Workshop 4
