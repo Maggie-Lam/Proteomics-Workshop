@@ -34,7 +34,7 @@ Big idea: Mass spectrometry is a universal analyzer of protein identity, quantit
 
 
 ####  Workshop 3
-Date: 4/11/2019 (Thu)<br>
+Date: 4/11/2019 (Thu)<br> 
 Time: 3:00 pm to 5:00 pm<br>
 Room: RC1-South 5105 <br>
 Quantitative Strategies <br>
