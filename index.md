@@ -2,6 +2,8 @@
 Director: Maggie Lam, PhD, Department of Medicine, CFReT <br>
 Sponsored by the Cancer Biology Training Program <br>
 
+###  Please bring your own labtop computer to the practicum. 
+
 Registration is currently unavailable.
 [Registration](https://goo.gl/forms/0Js0GpKV5XmqBFQe2)<br>
 [News and Updates](https://maggie-lam.github.io/Proteomics-Workshop/updates.html)
@@ -68,9 +70,6 @@ Upon completing the workshop, students should be able to:
 -	Utilize common web-based data analysis resources to transform quantitative protein list data to biological hypothesis.
 -	Design a hypothetical proteomics experiment working with campus resources to compare protein expression in an animal disease model.
 -	Possess basic understanding of scientific programming in R.
-
-
-
 
 ### Other important information
 Website information <br>
