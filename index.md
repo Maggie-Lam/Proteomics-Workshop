@@ -79,7 +79,7 @@ Registration can also be completed via this link: [Registration](https://goo.gl/
 #### Pre-requisite
 No prior experience in proteoimcs is required. Please bring your own labtop computer to the workshop.
 
-#### Questions and Comments
+#### Questions and Comments 
 Please contact Maggie Lam (maggie.lam@ucdenver.edu) for questions and comments.
 
 
