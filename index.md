@@ -60,7 +60,8 @@ Date:4/16/2019 (Tue)<br>
 Time:3:00 pm to 5:00 pm<br>
 Room: RC-1-South 12107 <br><br>
 
-**Guest Lecture:** Kirk Hansen, PhD, Associate Professor, Director of the Mass Spectrometry Shared Resource <br>
+**Guest Lecture:** 
+Kirk Hansen, PhD, Associate Professor, Director of the Mass Spectrometry Shared Resource <br>
 
 Complex analysis - Discovery Proteomics for Novel Molecular Phenotypes<br>
 Big idea: Linking data output to interpretable biological model is the critical step in data analysis. <br>
