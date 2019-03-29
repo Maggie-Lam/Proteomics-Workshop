@@ -9,7 +9,7 @@ Registration is currently unavailable.
 [Registration](https://goo.gl/forms/0Js0GpKV5XmqBFQe2)<br>
 [News and Updates](https://maggie-lam.github.io/Proteomics-Workshop/updates.html)
 
-###  Syllabus (subject to change) 
+###  Syllabus (subject to change)  
 
 ####  Workshop 1
 Date: 4/2/2019 (Tue) <br>
