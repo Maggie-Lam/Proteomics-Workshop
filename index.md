@@ -1,9 +1,9 @@
+## Please bring your own labtop computer to the practicum. Thank you!
+
 ### Proteomics Workshop
 Proteomics in Cancer Research - Concepts and Practicums (Spring 2019)<br> 
 Director: Maggie Lam, PhD, Department of Medicine, CFReT <br>
 Sponsored by the Cancer Biology Training Program <br>
-
-## Please bring your own labtop computer to the practicum. Thank you!
 
 Registration is currently unavailable.
 [Registration](https://goo.gl/forms/0Js0GpKV5XmqBFQe2)<br>
