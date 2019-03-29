@@ -19,9 +19,8 @@ Big idea: Multiple methods exist to quantify proteins on large-scale and reveal 
 - Introduction to different proteome parameters and proteome complexity.
 - Comparison of affinity-based (RPPA, Olink, SomaLogics, etc.) and mass spectrometry-based proteomics.
 - Overview on proteomics sample preparation.<br>
-**Practicum:** Performing a proteomics database search to identify proteins, fetching database sequence, where to look up information. 
+**Practicum:** Performing a proteomics database search to identify proteins, fetching database sequence, where to look up information.<br>
 
-<br>
 ####  Workshop 2
 Date: 4/4/2019 (Thu)<br>
 Time: 3:00 pm to 5:00 pm<br>
@@ -30,9 +29,9 @@ Introduction to Analytical and Computational Approaches.<br>
 Big idea: Mass spectrometry is a universal analyzer of protein identity, quantity, interactions, and dynamics.<br>
 - Principles of mass spectrometry and protein identification in mass spectrometry. 
 - Introduction to common experimental strategies for protein isolation and detection (Co-IP/BioID/APEX, PCP/LOPIT).<br>
-**Practicum:** Introduction to pathway analysis of identified proteins using DAVID, Reactome.
+**Practicum:** Introduction to pathway analysis of identified proteins using DAVID, Reactome.<br>
 
-<br>
+
 ####  Workshop 3
 Date: 4/11/2019 (Thu)<br>
 Time: 3:00 pm to 5:00 pm<br>
@@ -41,9 +40,8 @@ Quantitative Strategies <br>
 Big idea: Linking data output to interpretable biological model is the critical step in data analysis. <br>
 - Proteomics using mass spectrometry (and others): a deeper look into quantitative strategies. 
 - Proteogenomics analysis in CPTAC and other studies.<br>
-**Practicum:** Analysis of quantitative proteomics experiments (Part 1)
+**Practicum:** Analysis of quantitative proteomics experiments (Part 1).<br>
 
-<br>
 ####  Workshop 4
 Date: 4/16/2019 (Tue)<br>
 Time: 3:00 pm to 5:00 pm<br>
@@ -53,9 +51,8 @@ Biomarker Discovery.<br>
 Big idea: Using proteomics to find biomarkers.<br>
 - Biomarker discovery; real-life examples in cancer biology and other fields from biofluids. 
 - Concluding remarks.<br>
-**Practicum:** Analysis of quantitative proteomics experiments (Part 2)
+**Practicum:** Analysis of quantitative proteomics experiments (Part 2).<br>
 
-<br>
 #### Workshop Summary
 <p align="justify">
 Proteomics is a large-scale analytical approach to examine the functional output of the genome. Many cellular and molecular phenotypes can only be feasibly discerned at the proteomics level, including protein post-translational modifications, protein-protein interactions, protein localization, and more. With maturing technologies, proteomics analysis is now increasingly accessible to biomedical investigators, but sample preparation and data analysis concerns can remain daunting to many potential users. This workshop aims to provide introductory information for researchers interested in performing proteomics experiments as part of their research projects.
