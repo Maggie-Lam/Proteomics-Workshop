@@ -27,41 +27,40 @@ Two sessions per week and two hours per session.
 ####  Workshop 1
 Date: 4/2/2019 (Tue) <br>
 Time: 3:00 pm to 5:00 pm <br>
-Room: L18-5105 <br>
+Room: RC1-South 5105 <br>
 Introduction to Proteomics Concepts.<br>
-Big idea: Proteins reveal information not possible to attain from nucleic acids / From Genomics to Proteomics. <br>
-- Introduction: history of proteomics, basic protein biochemistry, current view on proteome complexity. 
-- Comparison of protein detection technologies (Mass Spec, RPPA, SomaLogics). 
-- Common workflow in mass spectrometry-based proteomics. 
-- Guest lecture 1 (tentative).<br>
-**Practicum:** Common proteomics database, database search, where to look up information. 
+Big idea: Multiple methods exist to quantify proteins on large-scale and reveal information not attainable from DNA/RNA alone <br>
+- Introduction to different proteome parameters and proteome complexity
+- Comparison of affinity-based (RPPA, Olink, SomaLogics) and Mass spectrometry-based proteomics
+- Overview or proteomics sample preparation. <br>
+**Practicum:** Performing a proteomics database search to identify proteins, fetching database sequence, where to look up information. 
 
 ####  Workshop 2
 Date: 4/4/2019 (Thu)<br>
 Time: 3:00 pm to 5:00 pm<br>
-Room: L18-5105<br>
+Room: RC1-South 5105 <br>
 Introduction to Analytical and Computational Approaches.<br>
-Big idea: Multiple methods exist to quantify proteins on large-scale, mass spectrometry is the universal proteome analyzer to-date. <br>
-- Principles for protein identification in mass spectrometry. 
+Big idea: Mass spectrometry is a universal analyzer of protein identity, quantity, interactions, and dynamics <br>
+- Principles of mass spectrometry and protein identification in mass spectrometry. 
 - Introduction to common experimental strategies for protein isolation and detection (Co-IP/BioID/APEX, PCP/LOPIT).<br>
 **Practicum:** Introduction to pathway analysis of identified proteins using DAVID, Reactome.
 
 ####  Workshop 3
-Date:4/9/2019 (Tue)<br>
+Date:4/11/2019 (Thu)<br>
 Time:3:00 pm to 5:00 pm<br>
-Room: L18-5105<br>
+Room: RC1-South 5105 <br>
 Biomarker Discovery. <br>
 Big idea: Using proteomics to find biomarkers.<br>
 - Biomarker discovery; real-life examples in cancer biology and other fields from biofluids. 
 - Proteogenomics analysis in CPTAC and other studies.
-- Guest lecture 2 (tentative)<br>
 **Practicum:** Designing your biomarker discovery experiments, proteomics statistics.
 
 ####  Workshop 4
-Date:4/11/2019 (Thu)<br>
+Date:4/16/2019 (Tue)<br>
 Time:3:00 pm to 5:00 pm<br>
-Room: L18-5105<br><br>
+Room: RC-1-South 12107 <br><br>
 Complex analysis - Discovery Proteomics for Novel Molecular Phenotypes<br>
+**Guest Lecture:** Kirk Hansen, PhD, Associate Professor, Director of the Mass Spectrometry Shared Resource
 Big idea: Linking data output to interpretable biological model is the critical step in data analysis. <br>
 - Proteomics using mass spectrometry: a deeper look into quantitative strategies. 
 - Concluding remarks.<br>
@@ -73,14 +72,13 @@ Workshop website: https://maggie-lam.github.io/Proteomics-Workshop/ (please chec
 
 #### Registration
 There is no charge for the workshop but registration is required.<br>
-Please contact Sabrena Heilman (sabrena.heilman@ucdenver.edu) or Caitlin Moloney (caitlin.moloney@ucdenver.edu) to register.<br>
 Registration can also be completed via this link: [Registration](https://goo.gl/forms/0Js0GpKV5XmqBFQe2)
 
 #### Pre-requisite
 No prior experience in proteoimcs is required. Please bring your own labtop computer to the workshop.
 
 #### Questions and Comments
-Please contact Maggie Lam (maggie.lam@udenver.edu) for questions and comments.
+Please contact Maggie Lam (maggie.lam@ucdenver.edu) for questions and comments.
 
 
 
