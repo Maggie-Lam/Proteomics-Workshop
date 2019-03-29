@@ -15,10 +15,10 @@ Date: 4/2/2019 (Tue) <br>
 Time: 3:00 pm to 5:00 pm <br>
 Room: RC1-South 5105 <br>
 Introduction to Proteomics Concepts.<br>
-Big idea: Multiple methods exist to quantify proteins on large-scale and reveal information not attainable from DNA/RNA alone. <br>
+Big idea: Multiple methods exist to quantify proteins on large-scale and reveal information not attainable from DNA/RNA alone.<br>
 - Introduction to different proteome parameters and proteome complexity.
 - Comparison of affinity-based (RPPA, Olink, SomaLogics, etc.) and Mass spectrometry-based proteomics.
-- Overview or proteomics sample preparation. <br>
+- Overview or proteomics sample preparation.<br>
 **Practicum:** Performing a proteomics database search to identify proteins, fetching database sequence, where to look up information. 
 
 ####  Workshop 2
@@ -26,7 +26,7 @@ Date: 4/4/2019 (Thu)<br>
 Time: 3:00 pm to 5:00 pm<br>
 Room: RC1-South 5105 <br>
 Introduction to Analytical and Computational Approaches.<br>
-Big idea: Mass spectrometry is a universal analyzer of protein identity, quantity, interactions, and dynamics. <br>
+Big idea: Mass spectrometry is a universal analyzer of protein identity, quantity, interactions, and dynamics.<br>
 - Principles of mass spectrometry and protein identification in mass spectrometry. 
 - Introduction to common experimental strategies for protein isolation and detection (Co-IP/BioID/APEX, PCP/LOPIT).<br>
 **Practicum:** Introduction to pathway analysis of identified proteins using DAVID, Reactome.
@@ -35,25 +35,22 @@ Big idea: Mass spectrometry is a universal analyzer of protein identity, quantit
 Date:4/11/2019 (Thu)<br>
 Time:3:00 pm to 5:00 pm<br>
 Room: RC1-South 5105 <br>
-Biomarker Discovery. <br>
-Big idea: Using proteomics to find biomarkers.<br>
-- Biomarker discovery; real-life examples in cancer biology and other fields from biofluids. 
+Quantitative Strategies <br>
+Big idea: Linking data output to interpretable biological model is the critical step in data analysis. <br>
+- Proteomics using mass spectrometry (and others): a deeper look into quantitative strategies. 
 - Proteogenomics analysis in CPTAC and other studies.<br>
-**Practicum:** Designing your biomarker discovery experiments, proteomics statistics.
+**Practicum:** Analysis of quantitative proteomics experiments (Part 1)
 
 ####  Workshop 4
 Date:4/16/2019 (Tue)<br>
 Time:3:00 pm to 5:00 pm<br>
-Room: RC-1-South 12107 <br><br>
-
-**Guest Lecture:** 
-Kirk Hansen, PhD, Associate Professor, Director of the Mass Spectrometry Shared Resource <br>
-
-Complex analysis - Discovery Proteomics for Novel Molecular Phenotypes<br>
-Big idea: Linking data output to interpretable biological model is the critical step in data analysis. <br>
-- Proteomics using mass spectrometry: a deeper look into quantitative strategies. 
+Room: RC-1-South 12107 <br>
+**Guest Lecture:** Kirk Hansen, PhD, Associate Professor, Director of the Mass Spectrometry Shared Resource.<br>
+Biomarker Discovery.<br>
+Big idea: Using proteomics to find biomarkers.<br>
+- Biomarker discovery; real-life examples in cancer biology and other fields from biofluids. 
 - Concluding remarks.<br>
-**Practicum:** Introduction to R, RStudio, and Bioconductor.
+**Practicum:** Analysis of quantitative proteomics experiments (Part 2)
 
 #### Workshop Summary
 <p align="justify">
